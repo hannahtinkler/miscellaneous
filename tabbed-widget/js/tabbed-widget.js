@@ -55,7 +55,7 @@ Vue.component('tab-navigation', {
 
   methods: {
     /**
-     * Activates either teh tab specified or the first in the markup
+     * Activates either the tab specified or the first in the markup
      * @return {void}
      */
     initialiseActiveTab: function () {
